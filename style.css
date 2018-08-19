@@ -1,0 +1,19 @@
+#body{
+    background-color: black
+}
+
+#game{    
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.center{
+    color: white;
+    font-size:35px;text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#score{
+    display:inline-block;
+}
