@@ -2,7 +2,7 @@
 
 
 
-<img src="https://i.imgur.com/ZZEXFYq.png">
+<img height="100" src="https://i.imgur.com/ZZEXFYq.png">
 
 Tetris game made using Javascript. Based od https://www.youtube.com/c/codeexplained tutorial
 
